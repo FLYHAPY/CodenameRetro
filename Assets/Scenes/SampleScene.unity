@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 114843825}
   - component: {fileID: 114843826}
   - component: {fileID: 114843827}
+  - component: {fileID: 114843828}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -188,7 +189,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.6792453, g: 0.17621931, b: 0.17621931, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -227,7 +228,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   rb: {fileID: 114843825}
   speed: 10
-  playercontrols: {fileID: 532542159784096936, guid: b50c51ed476f6d1408d4dcd4bdc50de9, type: 3}
+  playerControls: {fileID: 532542159784096936, guid: b50c51ed476f6d1408d4dcd4bdc50de9, type: 3}
+  anim: {fileID: 114843828}
 --- !u!50 &114843825
 Rigidbody2D:
   serializedVersion: 5
@@ -301,6 +303,28 @@ MonoBehaviour:
   m_DefaultActionMap: Gameplay
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!95 &114843828
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 114843821}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1a26741265b892242ad3a6da09e49a6d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &203879180
 GameObject:
   m_ObjectHideFlags: 0

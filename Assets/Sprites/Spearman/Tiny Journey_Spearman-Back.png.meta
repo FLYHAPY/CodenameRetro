@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 1e94e1ad61835da4cae11fbbae0f8415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3583126394594111975
+    second: Tiny Journey_Spearman-Back_0
+  - first:
+      213: 1073398379377462400
+    second: Tiny Journey_Spearman-Back_1
+  - first:
+      213: -2380807066997159256
+    second: Tiny Journey_Spearman-Back_2
+  - first:
+      213: -1344834098085461606
+    second: Tiny Journey_Spearman-Back_3
+  - first:
+      213: 7126024430758078483
+    second: Tiny Journey_Spearman-Back_4
+  - first:
+      213: -8004596698277215299
+    second: Tiny Journey_Spearman-Back_5
+  - first:
+      213: 1614494617804987721
+    second: Tiny Journey_Spearman-Back_6
+  - first:
+      213: 1336152947213934347
+    second: Tiny Journey_Spearman-Back_7
+  - first:
+      213: -1613298492661233783
+    second: Tiny Journey_Spearman-Back_8
+  - first:
+      213: -5900304493791166974
+    second: Tiny Journey_Spearman-Back_9
+  - first:
+      213: 4237403166282609352
+    second: Tiny Journey_Spearman-Back_10
+  - first:
+      213: -2027629657515249946
+    second: Tiny Journey_Spearman-Back_11
+  - first:
+      213: -5714689521555367360
+    second: Tiny Journey_Spearman-Back_12
+  - first:
+      213: 7681550883219736893
+    second: Tiny Journey_Spearman-Back_13
+  - first:
+      213: -7048591830874118786
+    second: Tiny Journey_Spearman-Back_14
+  - first:
+      213: -7059645212041842846
+    second: Tiny Journey_Spearman-Back_15
+  - first:
+      213: -5251198274312565797
+    second: Tiny Journey_Spearman-Back_16
+  - first:
+      213: 5522369273487500966
+    second: Tiny Journey_Spearman-Back_17
+  - first:
+      213: 1127323988417896693
+    second: Tiny Journey_Spearman-Back_18
+  - first:
+      213: -4703268975504097420
+    second: Tiny Journey_Spearman-Back_19
+  - first:
+      213: 6603764717658763560
+    second: Tiny Journey_Spearman-Back_20
+  - first:
+      213: -6548326621135119456
+    second: Tiny Journey_Spearman-Back_21
+  - first:
+      213: -6476086526228391267
+    second: Tiny Journey_Spearman-Back_22
+  - first:
+      213: -4618278661834795227
+    second: Tiny Journey_Spearman-Back_23
+  - first:
+      213: 440166560203544468
+    second: Tiny Journey_Spearman-Back_24
+  - first:
+      213: -4709679035921931869
+    second: Tiny Journey_Spearman-Back_25
+  - first:
+      213: 3642844288721079012
+    second: Tiny Journey_Spearman-Back_26
+  - first:
+      213: -4983915814820954536
+    second: Tiny Journey_Spearman-Back_27
+  - first:
+      213: 6501917871528244903
+    second: Tiny Journey_Spearman-Back_28
+  - first:
+      213: -1532706423371444114
+    second: Tiny Journey_Spearman-Back_29
+  - first:
+      213: -3415906741649011666
+    second: Tiny Journey_Spearman-Back_30
+  - first:
+      213: 5256809846802139081
+    second: Tiny Journey_Spearman-Back_31
+  - first:
+      213: 7582202076422955415
+    second: Tiny Journey_Spearman-Back_32
+  - first:
+      213: 2203972889690239630
+    second: Tiny Journey_Spearman-Back_33
+  - first:
+      213: 2080824566365884831
+    second: Tiny Journey_Spearman-Back_34
+  - first:
+      213: 5292614278372219501
+    second: Tiny Journey_Spearman-Back_35
+  - first:
+      213: -3768505050051266405
+    second: Tiny Journey_Spearman-Back_36
+  - first:
+      213: -8745466169361870140
+    second: Tiny Journey_Spearman-Back_37
+  - first:
+      213: -4015278427175031950
+    second: Tiny Journey_Spearman-Back_38
+  - first:
+      213: -1877811040500481868
+    second: Tiny Journey_Spearman-Back_39
+  - first:
+      213: 6536987660740991143
+    second: Tiny Journey_Spearman-Back_40
+  - first:
+      213: 160371660550653784
+    second: Tiny Journey_Spearman-Back_41
+  - first:
+      213: -9009747250377152792
+    second: Tiny Journey_Spearman-Back_42
+  - first:
+      213: 524926995841684271
+    second: Tiny Journey_Spearman-Back_43
+  - first:
+      213: 3221965205888474993
+    second: Tiny Journey_Spearman-Back_44
+  - first:
+      213: -5681793340552315543
+    second: Tiny Journey_Spearman-Back_45
+  - first:
+      213: -4345568799377492726
+    second: Tiny Journey_Spearman-Back_46
+  - first:
+      213: -7609371474013952093
+    second: Tiny Journey_Spearman-Back_47
+  - first:
+      213: -3999295709076302345
+    second: Tiny Journey_Spearman-Back_48
+  - first:
+      213: 2018836860747392369
+    second: Tiny Journey_Spearman-Back_49
+  - first:
+      213: -4684903261449312802
+    second: Tiny Journey_Spearman-Back_50
+  - first:
+      213: 2044993339795065367
+    second: Tiny Journey_Spearman-Back_51
+  - first:
+      213: -4915710125403759867
+    second: Tiny Journey_Spearman-Back_52
+  - first:
+      213: 3423384964305523198
+    second: Tiny Journey_Spearman-Back_53
+  - first:
+      213: 4881445304045276857
+    second: Tiny Journey_Spearman-Back_54
+  - first:
+      213: 7006629902167910046
+    second: Tiny Journey_Spearman-Back_55
+  - first:
+      213: 3713087461865377114
+    second: Tiny Journey_Spearman-Back_56
+  - first:
+      213: 2396710110308747531
+    second: Tiny Journey_Spearman-Back_57
+  - first:
+      213: -8303908170172717520
+    second: Tiny Journey_Spearman-Back_58
+  - first:
+      213: -4162410976242583630
+    second: Tiny Journey_Spearman-Back_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 910
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e44e0478d264ec0800000000000000
+      internalID: -3583126394594111975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 910
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0641932a75ee00800000000000000
+      internalID: 1073398379377462400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 910
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa05ec269ca5fed0800000000000000
+      internalID: -2380807066997159256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 830
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9188c55380365de0800000000000000
+      internalID: -1344834098085461606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 830
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3182718e679b4e260800000000000000
+      internalID: 7126024430758078483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 830
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30cec86b5f9e090800000000000000
+      internalID: -8004596698277215299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 830
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ddb0a0d46d76610800000000000000
+      internalID: 1614494617804987721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 750
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1748b608fa8210800000000000000
+      internalID: 1336152947213934347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 750
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987014c81996c99e0800000000000000
+      internalID: -1613298492661233783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 750
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ebfe4f258ed1ea0800000000000000
+      internalID: -5900304493791166974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 749
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2f360aab74eca30800000000000000
+      internalID: 4237403166282609352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 748
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea1cfb1996cd3e0800000000000000
+      internalID: -2027629657515249946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 747
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a9b0a682851b0b0800000000000000
+      internalID: -5714689521555367360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 670
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39866664d95a9a60800000000000000
+      internalID: 7681550883219736893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 670
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75270a231f5e2e90800000000000000
+      internalID: -7048591830874118786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 670
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f65ff451a170e90800000000000000
+      internalID: -7059645212041842846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 670
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb8476ddfeff17b0800000000000000
+      internalID: -5251198274312565797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 589
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a621c0789563ac40800000000000000
+      internalID: 5522369273487500966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 588
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ec64d13f05af00800000000000000
+      internalID: 1127323988417896693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 582
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f76f729c1aabeb0800000000000000
+      internalID: -4703268975504097420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 574
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821fe40c50945ab50800000000000000
+      internalID: 6603764717658763560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 575
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd102f1abaf15a0800000000000000
+      internalID: -6548326621135119456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a967dbd915026a0800000000000000
+      internalID: -6476086526228391267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 574
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271297960498efb0800000000000000
+      internalID: -4618278661834795227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 574
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49710f68729cb1600800000000000000
+      internalID: 440166560203544468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 510
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e4c9aedbd3aeb0800000000000000
+      internalID: -4709679035921931869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 510
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac749749bfd8230800000000000000
+      internalID: 3642844288721079012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 510
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e352be8f295dab0800000000000000
+      internalID: -4983915814820954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 430
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a674330bd37b3a50800000000000000
+      internalID: 6501917871528244903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 430
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605cf9e0abbabae0800000000000000
+      internalID: -1532706423371444114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 430
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c062eaae24890d0800000000000000
+      internalID: -3415906741649011666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 430
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7ca6234b0f3f840800000000000000
+      internalID: 5256809846802139081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 350
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4936208, y: 0.12076371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7916b64cd94693960800000000000000
+      internalID: 7582202076422955415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 350
+        width: 15
+        height: 26
+      alignment: 9
+      pivot: {x: 0.45534313, y: 0.117219195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82f3908aa5169e10800000000000000
+      internalID: 2203972889690239630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 350
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.16329505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91152e1be290ec10800000000000000
+      internalID: 2080824566365884831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 349
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.46810302, y: 0.1548135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a598b05a4237940800000000000000
+      internalID: 5292614278372219501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 348
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4808614, y: 0.188991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98bd659f9493bbc0800000000000000
+      internalID: -3768505050051266405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 347
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4808614, y: 0.23843384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c25dfbbadcd1a680800000000000000
+      internalID: -8745466169361870140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 270
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b61f95b8dd648c0800000000000000
+      internalID: -4015278427175031950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 270
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b089a7cecca0f5e0800000000000000
+      internalID: -1877811040500481868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 270
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8149b94ab08ba50800000000000000
+      internalID: 6536987660740991143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 270
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574923fc21c93200800000000000000
+      internalID: 160371660550653784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 189
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a7398c92f6f280800000000000000
+      internalID: -9009747250377152792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f231820525ae84700800000000000000
+      internalID: 524926995841684271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 182
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f96a7b848b6bc20800000000000000
+      internalID: 3221965205888474993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df2396f073621b0800000000000000
+      internalID: -5681793340552315543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 175
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057516633071b3c0800000000000000
+      internalID: -4345568799377492726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76867e5f4166690800000000000000
+      internalID: -7609371474013952093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f553c4edb5af78c0800000000000000
+      internalID: -3999295709076302345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1752058bd69540c10800000000000000
+      internalID: 2018836860747392369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 110
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ae3e2e41ebfeb0800000000000000
+      internalID: -4684903261449312802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 110
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a46829b96416c10800000000000000
+      internalID: 2044993339795065367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 110
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b948c7fa3e7cbb0800000000000000
+      internalID: -4915710125403759867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 110
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef118d6bc7e428f20800000000000000
+      internalID: 3423384964305523198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_54
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be0e1a14a06eb340800000000000000
+      internalID: 4881445304045276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_55
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 110
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e962957f5cc8c3160800000000000000
+      internalID: 7006629902167910046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d4170bf59878330800000000000000
+      internalID: 3713087461865377114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 30
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b094a82a523d24120800000000000000
+      internalID: 2396710110308747531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 30
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0362465e38792cc80800000000000000
+      internalID: -8303908170172717520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Journey_Spearman-Back_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 30
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7bfdf35452c36c0800000000000000
+      internalID: -4162410976242583630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 93dd03c33b3e0204cafe07005dd2c29e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tiny Journey_Spearman-Back_0: -3583126394594111975
+      Tiny Journey_Spearman-Back_1: 1073398379377462400
+      Tiny Journey_Spearman-Back_10: 4237403166282609352
+      Tiny Journey_Spearman-Back_11: -2027629657515249946
+      Tiny Journey_Spearman-Back_12: -5714689521555367360
+      Tiny Journey_Spearman-Back_13: 7681550883219736893
+      Tiny Journey_Spearman-Back_14: -7048591830874118786
+      Tiny Journey_Spearman-Back_15: -7059645212041842846
+      Tiny Journey_Spearman-Back_16: -5251198274312565797
+      Tiny Journey_Spearman-Back_17: 5522369273487500966
+      Tiny Journey_Spearman-Back_18: 1127323988417896693
+      Tiny Journey_Spearman-Back_19: -4703268975504097420
+      Tiny Journey_Spearman-Back_2: -2380807066997159256
+      Tiny Journey_Spearman-Back_20: 6603764717658763560
+      Tiny Journey_Spearman-Back_21: -6548326621135119456
+      Tiny Journey_Spearman-Back_22: -6476086526228391267
+      Tiny Journey_Spearman-Back_23: -4618278661834795227
+      Tiny Journey_Spearman-Back_24: 440166560203544468
+      Tiny Journey_Spearman-Back_25: -4709679035921931869
+      Tiny Journey_Spearman-Back_26: 3642844288721079012
+      Tiny Journey_Spearman-Back_27: -4983915814820954536
+      Tiny Journey_Spearman-Back_28: 6501917871528244903
+      Tiny Journey_Spearman-Back_29: -1532706423371444114
+      Tiny Journey_Spearman-Back_3: -1344834098085461606
+      Tiny Journey_Spearman-Back_30: -3415906741649011666
+      Tiny Journey_Spearman-Back_31: 5256809846802139081
+      Tiny Journey_Spearman-Back_32: 7582202076422955415
+      Tiny Journey_Spearman-Back_33: 2203972889690239630
+      Tiny Journey_Spearman-Back_34: 2080824566365884831
+      Tiny Journey_Spearman-Back_35: 5292614278372219501
+      Tiny Journey_Spearman-Back_36: -3768505050051266405
+      Tiny Journey_Spearman-Back_37: -8745466169361870140
+      Tiny Journey_Spearman-Back_38: -4015278427175031950
+      Tiny Journey_Spearman-Back_39: -1877811040500481868
+      Tiny Journey_Spearman-Back_4: 7126024430758078483
+      Tiny Journey_Spearman-Back_40: 6536987660740991143
+      Tiny Journey_Spearman-Back_41: 160371660550653784
+      Tiny Journey_Spearman-Back_42: -9009747250377152792
+      Tiny Journey_Spearman-Back_43: 524926995841684271
+      Tiny Journey_Spearman-Back_44: 3221965205888474993
+      Tiny Journey_Spearman-Back_45: -5681793340552315543
+      Tiny Journey_Spearman-Back_46: -4345568799377492726
+      Tiny Journey_Spearman-Back_47: -7609371474013952093
+      Tiny Journey_Spearman-Back_48: -3999295709076302345
+      Tiny Journey_Spearman-Back_49: 2018836860747392369
+      Tiny Journey_Spearman-Back_5: -8004596698277215299
+      Tiny Journey_Spearman-Back_50: -4684903261449312802
+      Tiny Journey_Spearman-Back_51: 2044993339795065367
+      Tiny Journey_Spearman-Back_52: -4915710125403759867
+      Tiny Journey_Spearman-Back_53: 3423384964305523198
+      Tiny Journey_Spearman-Back_54: 4881445304045276857
+      Tiny Journey_Spearman-Back_55: 7006629902167910046
+      Tiny Journey_Spearman-Back_56: 3713087461865377114
+      Tiny Journey_Spearman-Back_57: 2396710110308747531
+      Tiny Journey_Spearman-Back_58: -8303908170172717520
+      Tiny Journey_Spearman-Back_59: -4162410976242583630
+      Tiny Journey_Spearman-Back_6: 1614494617804987721
+      Tiny Journey_Spearman-Back_7: 1336152947213934347
+      Tiny Journey_Spearman-Back_8: -1613298492661233783
+      Tiny Journey_Spearman-Back_9: -5900304493791166974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
