@@ -860,8 +860,8 @@ TextureImporter:
         y: 510
         width: 15
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -882,8 +882,8 @@ TextureImporter:
         y: 510
         width: 15
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -904,8 +904,8 @@ TextureImporter:
         y: 510
         width: 15
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1695,6 +1695,7 @@ TextureImporter:
       Tiny Journey_Spearman-Back_58: -8303908170172717520
       Tiny Journey_Spearman-Back_59: -4162410976242583630
       Tiny Journey_Spearman-Back_6: 1614494617804987721
+      Tiny Journey_Spearman-Back_60: 413792885
       Tiny Journey_Spearman-Back_7: 1336152947213934347
       Tiny Journey_Spearman-Back_8: -1613298492661233783
       Tiny Journey_Spearman-Back_9: -5900304493791166974
