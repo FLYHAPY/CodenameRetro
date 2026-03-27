@@ -1,14 +1,14 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class movemnt : MonoBehaviour
+public class movemnt : MonoBehaviour, IDirectionProvider
 {
     public Rigidbody2D rb;
     public float speed;
     public InputActionReference playerControls;
     private Vector2 _moveDirection;
     private Vector2 _lastMoveDirection;
-    private bool facingleft = false;
+    private bool _facingLeft = false;
 
     [SerializeField]
     private Animator anim;
@@ -34,18 +34,24 @@ public class movemnt : MonoBehaviour
     {
         if (_moveDirection.x != 0 || _moveDirection.y != 0)
         {
-            anim.SetFloat("MoveX", _moveDirection.x);
-            anim.SetFloat("MoveY", _moveDirection.y);
+            _lastMoveDirection = _moveDirection;
+            anim.SetFloat("MoveX", _lastMoveDirection.x);
+            anim.SetFloat("MoveY", _lastMoveDirection.y);
         }
         
         anim.SetFloat("moveMagnitude", _moveDirection.magnitude);
 
-        if ((_moveDirection.x < 0 && !facingleft) || (_moveDirection.x > 0 && facingleft))
+        if ((_moveDirection.x < 0 && !_facingLeft) || (_moveDirection.x > 0 && _facingLeft))
         {
             Vector3 scale = transform.localScale;
             scale.x *= -1;
             transform.localScale = scale;
-            facingleft = !facingleft;
+            _facingLeft = !_facingLeft;
         }
+    }
+    
+    public Vector2 GetDirection()
+    {
+        return _lastMoveDirection;
     }
 }

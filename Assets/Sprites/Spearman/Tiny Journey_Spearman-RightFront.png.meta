@@ -1416,8 +1416,8 @@ TextureImporter:
         y: 109
         width: 17
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53834355, y: 0.12913619}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1438,8 +1438,8 @@ TextureImporter:
         y: 103
         width: 32
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.24198818, y: 0.33704454}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1458,10 +1458,10 @@ TextureImporter:
         serializedVersion: 2
         x: 192
         y: 102
-        width: 28
+        width: 33
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.24651453, y: 0.37325642}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1482,8 +1482,8 @@ TextureImporter:
         y: 106
         width: 27
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35917494, y: 0.23402694}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1504,8 +1504,8 @@ TextureImporter:
         y: 109
         width: 18
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5844964, y: 0.10890757}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1526,8 +1526,8 @@ TextureImporter:
         y: 109
         width: 17
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5637117, y: 0.123406775}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1536,28 +1536,6 @@ TextureImporter:
       bones: []
       spriteID: 2623a3a0cc3b39140800000000000000
       internalID: 4725318122968068706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiny Journey_Spearman-RightFront_56
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 102
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26434fdea864ce360800000000000000
-      internalID: 7200207466770216034
       vertices: []
       indices: 
       edges: []

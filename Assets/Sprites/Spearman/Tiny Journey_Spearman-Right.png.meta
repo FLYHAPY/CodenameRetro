@@ -862,7 +862,7 @@ TextureImporter:
       name: Tiny Journey_Spearman-Right_25
       rect:
         serializedVersion: 2
-        x: 29
+        x: 30
         y: 509
         width: 18
         height: 28
@@ -1416,8 +1416,8 @@ TextureImporter:
         y: 109
         width: 18
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1438,8 +1438,8 @@ TextureImporter:
         y: 109
         width: 40
         height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.18776532, y: 0.15353584}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1458,10 +1458,10 @@ TextureImporter:
         serializedVersion: 2
         x: 192
         y: 109
-        width: 33
+        width: 39
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.1609454, y: 0.16834126}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1475,28 +1475,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiny Journey_Spearman-Right_53
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 111
-        width: 12
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 836d2c9f3fe1f65f0800000000000000
-      internalID: -761355778786142664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tiny Journey_Spearman-Right_54
       rect:
         serializedVersion: 2
@@ -1504,8 +1482,8 @@ TextureImporter:
         y: 109
         width: 33
         height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.20937464, y: 0.1578891}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1526,8 +1504,8 @@ TextureImporter:
         y: 109
         width: 16
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1548,8 +1526,8 @@ TextureImporter:
         y: 109
         width: 17
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
