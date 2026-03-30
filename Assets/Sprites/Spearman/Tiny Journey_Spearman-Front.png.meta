@@ -1126,11 +1126,11 @@ TextureImporter:
       name: Tiny Journey_Spearman-Front_37
       rect:
         serializedVersion: 2
-        x: 431
+        x: 432
         y: 349
         width: 17
         height: 28
-      alignment: 0
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1417,7 +1417,7 @@ TextureImporter:
         width: 20
         height: 28
       alignment: 9
-      pivot: {x: 0.59308165, y: 0.15093939}
+      pivot: {x: 0.575, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1439,7 +1439,7 @@ TextureImporter:
         width: 17
         height: 46
       alignment: 9
-      pivot: {x: 0.54053813, y: 0.5711325}
+      pivot: {x: 0.5, y: 0.7826087}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1461,7 +1461,7 @@ TextureImporter:
         width: 16
         height: 45
       alignment: 9
-      pivot: {x: 0.5160427, y: 0.57493913}
+      pivot: {x: 0.46875, y: 0.8}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1483,7 +1483,7 @@ TextureImporter:
         width: 16
         height: 39
       alignment: 9
-      pivot: {x: 0.5125408, y: 0.44737536}
+      pivot: {x: 0.46875, y: 0.71794873}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1505,7 +1505,7 @@ TextureImporter:
         width: 20
         height: 28
       alignment: 9
-      pivot: {x: 0.6052033, y: 0.15646553}
+      pivot: {x: 0.575, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1527,7 +1527,7 @@ TextureImporter:
         width: 17
         height: 29
       alignment: 9
-      pivot: {x: 0.5282593, y: 0.1687009}
+      pivot: {x: 0.5, y: 0.4827586}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1694,13 +1694,13 @@ TextureImporter:
       Tiny Journey_Spearman-Front_53: -1559819855861482312
       Tiny Journey_Spearman-Front_54: 492016300205325604
       Tiny Journey_Spearman-Front_55: -3697769825618194916
-      Tiny Journey_Spearman-Front_56: 961861964935773121
+      Tiny Journey_Spearman-Front_56: 895032280
       Tiny Journey_Spearman-Front_57: -7725122267472613160
       Tiny Journey_Spearman-Front_58: -3038180260683851026
       Tiny Journey_Spearman-Front_59: -6849706520946236698
       Tiny Journey_Spearman-Front_6: -931364021607651998
       Tiny Journey_Spearman-Front_60: -2163460069961269791
-      Tiny Journey_Spearman-Front_61: 7457982003696464632
+      Tiny Journey_Spearman-Front_61: -1315935943
       Tiny Journey_Spearman-Front_7: -8123281343317387909
       Tiny Journey_Spearman-Front_8: -7303397068618454022
       Tiny Journey_Spearman-Front_9: -1727713542707774233

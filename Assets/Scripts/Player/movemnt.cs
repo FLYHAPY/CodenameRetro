@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -26,7 +27,6 @@ public class movemnt : MonoBehaviour, IDirectionProvider
     void FixedUpdate()
     {
         rb.linearVelocity = _moveDirection * speed;
-        _moveDirection = playerControls.action.ReadValue<Vector2>();
     }
 
     //Set up animation parameters
@@ -53,5 +53,10 @@ public class movemnt : MonoBehaviour, IDirectionProvider
     public Vector2 GetDirection()
     {
         return _lastMoveDirection;
+    }
+
+    public void Move(InputAction.CallbackContext context)
+    {
+        _moveDirection = playerControls.action.ReadValue<Vector2>();
     }
 }
