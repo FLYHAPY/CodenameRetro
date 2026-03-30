@@ -18,15 +18,16 @@ public class movemnt : MonoBehaviour, IDirectionProvider
     {
         playerControls.action.Enable();
     }
-
-    void Update()
-    {
-        Animate();
-    }
-    
     void FixedUpdate()
     {
         rb.linearVelocity = _moveDirection * speed;
+    }
+    
+    //This is being called in the playerInput component
+    public void Move(InputAction.CallbackContext context)
+    {
+        _moveDirection = playerControls.action.ReadValue<Vector2>();
+        Animate();
     }
 
     //Set up animation parameters
@@ -53,10 +54,5 @@ public class movemnt : MonoBehaviour, IDirectionProvider
     public Vector2 GetDirection()
     {
         return _lastMoveDirection;
-    }
-
-    public void Move(InputAction.CallbackContext context)
-    {
-        _moveDirection = playerControls.action.ReadValue<Vector2>();
     }
 }
