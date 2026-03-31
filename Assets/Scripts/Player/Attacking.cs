@@ -18,14 +18,10 @@ public class Attacking : MonoBehaviour
     
     Dictionary<Vector2, Vector2> _offsets = new Dictionary<Vector2, Vector2>()
     {
-        { new Vector2(0, 1),  new Vector2(0.14f, 1.41f) },   // up
-        { new Vector2(0.707107008f, 0.707107008f),  new Vector2(0.9f, 1.18f) }, // up right
-        { new Vector2(1, 0),  new Vector2(1.2859f, 0.1941f) },   // right
-        { new Vector2(0.707107008f, -0.707107008f), new Vector2(0.88f, -0.348f) }, // down right
-        { new Vector2(0, -1),  new Vector2(-0.19f, -0.75f) },   // down
-        { new Vector2(-0.707107008f, -0.707107008f), new Vector2(0.88f, -0.348f)}, // down left
-        { new Vector2(-1, 0),  new Vector2(1.2859f, 0.1941f) },   // left
-        { new Vector2(-0.707107008f, 0.707107008f),  new Vector2(0.9f, 1.18f) }, // up left
+        { new Vector2(0, 1),  new Vector2(0.112f, 0.94f) },   // up
+        { new Vector2(1, 0),  new Vector2(1.19f, -0.47f) },   // right
+        { new Vector2(0, -1),  new Vector2(-0.13f, -1.51f) },   // down
+        { new Vector2(-1, 0),  new Vector2(1.19f, -0.47f) },   // left
     };
     
     
@@ -55,7 +51,7 @@ public class Attacking : MonoBehaviour
         attackingCollider.SetActive(true);
         if (_offsets.TryGetValue(dir, out Vector2 offset))
         {
-            attackingCollider.transform.localPosition = (dir + (offset - dir));
+            attackingCollider.transform.localPosition = offset;
         }
         
         //Rotating
@@ -63,13 +59,6 @@ public class Attacking : MonoBehaviour
         if (dir != Vector2.zero)
         {
             float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-            if (angle == -45)
-            {
-                angle = -21;
-            }else if (angle == -135)
-            {
-                angle = -156;
-            }
             attackingCollider.transform.rotation = Quaternion.Euler(0f, 0f, angle);
         }
     }
