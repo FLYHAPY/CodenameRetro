@@ -23,6 +23,8 @@ public class Unit : MonoBehaviour
     int _pathIndex;
 
     [SerializeField] private float radius;
+    [SerializeField] private float damage;
+    [SerializeField] private float knockbackForce;
 
     void Start()
     {
@@ -41,7 +43,7 @@ public class Unit : MonoBehaviour
 
         if (Vector3.Distance(_currentTargetPosition, target.transform.position) > 0.1f && !_isAttacking)
         {
-            Debug.Log("Finished");
+
             _path = pathfinder.FindPath(transform.position, target.transform.position);
             _currentTargetPosition = target.position;
             _pathIndex = 0;
@@ -88,5 +90,15 @@ public class Unit : MonoBehaviour
     {
         anim.SetBool("isAttacking", false);
         _isAttacking = false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            other.GetComponent<Health>().ReduceHealth(damage);
+            /*Vector2 direction = (rb.position - (Vector2)other.transform.position).normalized;
+            other.GetComponent<Rigidbody2D>().AddForce(-direction  * knockbackForce,  ForceMode2D.Impulse);*/
+        }
     }
 }
